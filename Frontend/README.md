@@ -8,17 +8,18 @@ Stock Alert is useful for individuals who are interested in investing in stocks 
 
 ## Screenshots
 
-![Stock Alert Screenshot 1](1.png)
+![Screenshot](1.PNG)
 
-![Stock Alert Screenshot 2](2.png)
+![Screenshot](2.PNG)
 
 ## Installation
 
 To run Stock Alert locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/stock-alert.git`
-2. Install the dependencies: `npm install`
-3. Start the development server: `npm start`
+1. Clone the repository: `git clone git@github.com:Bishadkoju/StockAlert.git`
+2. Navigate to cloned direcotry : `cd StockAlert/Frontend`
+3. Install the dependencies: `npm install`
+4. Start the development server: `npm start`
 
 ## Components
 - App
