@@ -17,9 +17,9 @@ This is a Flask-based web application that allows users to set up alerts for cer
 
 ## Installation
 
-1. Clone this repository using the command: `git clone https://github.com/example/stock-price-alert.git`
+1. Clone this repository using the command: `git clone git@github.com:Bishadkoju/StockAlert.git`
 
-2. Navigate to the cloned directory using the command: `cd stock-price-alert`
+2. Navigate to the cloned directory using the command: `cd StockAlert/Backend`
 
 3. Create a new virtual environment using the command: `python -m venv venv`
 
